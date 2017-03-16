@@ -1,0 +1,26 @@
+{
+  "name": "nodetextbaht",
+  "version": "1.0.0",
+  "description": "node module text baht",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mob35/nodetextbaht.git"
+  },
+  "keywords": [
+    "text",
+    "baht",
+    "textbaht",
+    "node",
+    "mean"
+  ],
+  "author": "Jakkrich J.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mob35/nodetextbaht/issues"
+  },
+  "homepage": "https://github.com/mob35/nodetextbaht#readme"
+}
