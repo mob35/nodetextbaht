@@ -1,6 +1,6 @@
 {
   "name": "nodetextbaht",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "node module text baht",
   "main": "index.js",
   "scripts": {
